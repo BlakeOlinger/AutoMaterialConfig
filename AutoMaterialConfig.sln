@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMaterialConfig", "AutoMaterialConfig\AutoMaterialConfig.csproj", "{A8F89A64-B24B-4353-ACEB-1DFC59D3523B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F89A64-B24B-4353-ACEB-1DFC59D3523B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F89A64-B24B-4353-ACEB-1DFC59D3523B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F89A64-B24B-4353-ACEB-1DFC59D3523B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F89A64-B24B-4353-ACEB-1DFC59D3523B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F065F7-4976-4BD4-9CEB-30CE710AB934}
+	EndGlobalSection
+EndGlobal
